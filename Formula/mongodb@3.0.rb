@@ -3,8 +3,8 @@ require "language/go"
 class MongodbAT30 < Formula
   desc "High-performance document-oriented database"
   homepage "https://www.mongodb.org/"
-  url "https://fastdl.mongodb.org/src/mongodb-src-r3.0.12.tar.gz"
-  sha256 "b9bea5e3d59b93775d5d55fb1dd161272aeefa193c2311a8f6722ad46d7a21ab"
+  url "https://fastdl.mongodb.org/src/mongodb-src-r3.0.15.tar.gz"
+  sha256 "09ad76e06df007085520025c94a5e5840d65f37660c2b359f4962e135e4ae259"
 
   bottle do
     cellar :any_skip_relocation
